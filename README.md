@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, It's me, It's Matsity 
 
-<!--
-**mMamuto/mMamuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+```
+.       *       .        .       .         .    .       ★       .        .       .         .
+✦  .       .      ★     ·       .       .       ✧      .       ★       .       .      ✦
+.       .        .        .       .      °       .       ✧       .       .       .       °
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+
+I am currently learning programming and getting stuck in. I am focusing on C++ and general logic, currently collaborating with [@pauel74](https://github.com/pauel74) on the [cppLearningRoadmap](https://github.com/pauel74/cppLearningRoadmap). project to get into C++.
+
+## Currently on
+### Code
+[![My Skills](https://skillicons.dev/icons?i=cpp,vscode,git,latex)](https://skillicons.dev)
+### Design
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,blender,figma)](https://skillicons.dev)
+
+## Contact me here
+
+[![Discord](https://img.shields.io/badge/Discord-mmamuto-5865F2?logo=discord&logoColor=white)](https://discord.com/users/670283200404258827)
