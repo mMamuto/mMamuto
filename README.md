@@ -10,7 +10,7 @@
 
 <div align="left">
 
-I am currently learning programming and getting stuck in. I am focusing on C++ and general logic, currently collaborating with [@pauel74](https://github.com/pauel74) on the [cppLearningRoadmap](https://github.com/pauel74/cppLearningRoadmap). project to get into C++.
+I am currently learning programming and getting stuck in. I am focusing on C++ and general logic, currently collaborating with [@pauel74](https://github.com/pauel74) on the [cppLearningRoadmap](https://github.com/pauel74/cppLearningRoadmap) project to get into C++.
 
 ## Currently on
 ### Code
